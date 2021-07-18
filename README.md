@@ -8,7 +8,7 @@ Mais dicas sobre landing pages podem ser obtidas no endereço abaixo:
 
 ## Features
 
-Neste projeto do Hiring Coders da Gama Acadmy, foi designido que esta landing page seja desenvolvida utilizando a *stack* HTML, CSS3 e Javascript.
+Neste projeto do Hiring Coders da Gama Acadmy, foi designado que esta landing page seja desenvolvida utilizando a *stack* HTML, CSS3 e Javascript.
 
  ![github](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![github](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![github](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) [![Netlify Status](https://api.netlify.com/api/v1/badges/011ab6d8-7a8d-40ae-bbe1-56a30750105b/deploy-status)](https://app.netlify.com/sites/landingpage-georgemaia/deploys)
 
