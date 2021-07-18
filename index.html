@@ -1,14 +1,47 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Landing Page</title>
-    <link rel="stylesheet" href="css/style.css">
-    <script type="text/javascript" src="js/script.js"></script>
+    <link rel="stylesheet" href="./css/style.css">
 </head>
+
 <body>
-    <h1>Landing Page</h1>
+
+    <header>
+        <h1>Crescer com Educação</h1>
+    </header>
+    <main>
+        <section>
+            <p>
+                No últimos anos, após o período da <strong>Black Friday</strong> é comum ficar com o sentimento de frustação por perder as melhores oportunidades.
+            </p>
+            <p>
+                Esta ano desejamos que você não sinta remorsos por não receber avisos de nossas promoções. Por isso estamos disponibilizando este cadastro antecipado para garantirmos que todos recebam as melhores ofertas da Black Friday em seu e-mail.
+            </p>
+        </section>
+        <section class="second-container-section background-second-section">
+            <div class="form-container">
+                <p>Não perca a oportunidade e inscreva-se abaixo para receber em primeira mão as promoções de treinamentos da Crescer com Educação.</p>
+                <form id="form" action="">
+                    <input type="text" id="name" placeholder="Informe seu nome" />
+                    <input type="email" id="email" placeholder="Informe seu melhor e-mail" />
+                    <div>
+                        <input type="checkbox" id="subscribe">
+                        <label for="subscribe">Concordo em receber e-mails promocionais da Crescer com Educação.</label>
+                    </div>
+                    <input class="subscribe-input" type="submit" value="Inscrever" />
+                </form>
+            </div>
+        </section>
+    </main>
+    <footer>
+        2021 - Todos os direitos reservados.
+    </footer>
+    <script type="text/javascript" src="./js/script.js"></script>
 </body>
+
 </html>
